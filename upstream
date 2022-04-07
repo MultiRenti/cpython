@@ -1,0 +1,2 @@
+$ cd cpython
+$ git remote add upstream git@github.com:python/cpython.git
